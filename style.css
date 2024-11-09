@@ -1,0 +1,74 @@
+
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.main-div{
+
+
+    height: 30rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  
+}
+
+
+.main-div-p{
+    width: 50rem;
+    height: auto;
+    margin-top: 5rem;
+}
+
+.inputTag{
+
+    width: 80%;
+    height: 2.5rem;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 1rem;
+    padding: 0px 1rem;
+}
+
+.addbutton{
+
+    width: 15%;
+    height: 2.5rem;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    /* border: 1px solid black; */
+    background-color: rgb(0,123,255);
+    color: white;
+    margin-left: 10px;
+}
+
+.stylediv{
+
+    height: 2.5rem;
+    width: 80%;
+    border: 1px solid black;
+    margin-top: 5px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap : 5px;
+    padding: 0px 8px;
+    margin: 1rem 0px;
+    border-radius: 10px;
+}
+
+.buttonclass{
+
+    border: none;
+    border: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 2px 5px;
+   color: white;
+
+}
